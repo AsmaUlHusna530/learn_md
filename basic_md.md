@@ -84,7 +84,7 @@ http://www.google.com
 
 
 ### Emoji
-
+😀
 😀
 
 ### Table Syntax
