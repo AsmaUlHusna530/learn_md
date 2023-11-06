@@ -1,6 +1,6 @@
 <!--Practice markdown -->
 Asma ul husna  
-This is first line  
+This is the first line  
 
 ---
  # Asma ul Husna
@@ -18,8 +18,8 @@ __This is a bold text__
 
 ~~this is strikethrough~~
 
-### Single line code 
-`this is inline`  
+### Single-line code 
+`This is inline`  
 
 `<h1>this is inline<h1>`
 
@@ -86,7 +86,7 @@ http://www.google.com
 
 ### Emoji
 😀
-😀
+
 
 ### Table Syntax
 
